@@ -1,0 +1,52 @@
+{
+  "player": [
+    {
+      "nome": "Felipe Fernandes Da Silva",
+      "nicksteam": "The Melawho The Melabixa",
+      "email": "felipe.sdi18@gmail.com",
+      "cellphone": "(92) 98117-5447",
+      "urlperfil": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/00/00c2f60b347d2aafe867d6126e9c28fc9fb2e3d6_full.jpg",
+      "id": 1
+    },
+    {
+      "nome": "Lucas Fernandes da Silva",
+      "nicksteam": "malucas",
+      "email": "lucas_fernando705@gmail.com",
+      "cellphone": "(92) 98248-7203",
+      "urlperfil": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/30/3090709fd759b0608816a9927e3c462e18770e10_full.jpg",
+      "id": 2
+    },
+    {
+      "nome": "Francisco goncalves",
+      "nicksteam": "ksjabhdkasjd",
+      "email": "asdasdasd",
+      "cellphone": "(92) 98117-5447",
+      "urlperfil": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/ca/cac0a853905f3a17c368ccbfa64bc81fbf9d40a8_full.jpg",
+      "id": 4
+    },
+    {
+      "nome": "Wesley Silva",
+      "nicksteam": "OlegKorolenco",
+      "email": "Wesleydelima@gmail.com",
+      "cellphone": "92 9486-3388",
+      "urlperfil": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/9f/9f95019f11d14766c1bac02b5f7343e7bcf2ec6f_full.jpg",
+      "id": 5
+    },
+    {
+      "nome": "Rodrigo tain SHOK",
+      "nicksteam": "rs",
+      "email": "rs@gmail.com",
+      "cellphone": "23123123123",
+      "urlperfil": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/85/85e17c767e19fefbb2a6f6ba4d123592024ad12b_full.jpg",
+      "id": 6
+    },
+    {
+      "nome": "Namorada do ullisys",
+      "nicksteam": "Bia T-Girl",
+      "email": "biazinhaTravesti@gmail.com",
+      "cellphone": "(92) 98406-5581",
+      "urlperfil": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/71/71587aa5d76aadd6649a1ca7d8dc133653d35213_full.jpg",
+      "id": 7
+    }
+  ]
+}
